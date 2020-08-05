@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  div {
+    font-size: 14px;
+  }
+  h1 {
+    font-weight: 400;
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: scale(0.5);
+  }
+}
